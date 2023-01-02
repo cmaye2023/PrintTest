@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_menu_Home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/id_menu_Dashboard"
+            android:icon="@drawable/ic_baseline_dashboard_24"
+            android:title="Dashboard" />
+
+        <item
+            android:id="@+id/id_menu_PrintsTest"
+            android:icon="@drawable/ic_baseline_local_printshop_24"
+            android:title="Print Test" />
+        <item
+            android:id="@+id/id_menu_Settings"
+            android:icon="@drawable/ic_baseline_menu_setting"
+            android:title="Setting" />
+
+        <item
+            android:id="@+id/id_menu_Logout"
+            android:icon="@drawable/ic_baseline_logout_24"
+            android:title="Logout" />
+
+
+    </group>
+</menu>

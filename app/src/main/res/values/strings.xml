@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PrintTest</string>
+
+    <!-- Printer -->
+    <string name = "no_such_printer">There is no %1$s in paired list.</string>
+    <string name = "bluetooth_connection_error">Error occurred while connection to bluetooth.</string>
+
+    <string name = "printing_error">Error occurred while printing.</string>
+    <string name = "print_successful">Print Success!</string>
+    <string name="device_is_not_pair_printer">Device is not pair printer</string>
+    <string name="connect_printer_fail">Sorry, connecting to printer fail! Make sure the printer is power on.</string>
+    <string name = "bluetooth_connection_timeout">Connection timeout, cannot connect to bluetooth device.</string>
+
+    <string name="port_type">Port Type:</string>
+    <string name="BLUETOOTH">Bluetooth</string>
+    <string name="USB">USB</string>
+    <string name="WI_FI">Wi-Fi</string>
+
+
+
+    <string name="printer_type">Printer Type:</string>
+    <string name="two_inches_in_mm">58mm</string>
+    <string name="three_inches_in_mm">80mm</string>
+    <string name="four_inches_in_mm">104mm</string>
+
+
+    <string name="connect">Connect</string>
+    <string name="un_connect">UnConnected</string>
+    <string name="print_test_page">Print Test Page</string>
+    <string name="select_bluetooth_device">Select Bluetooth Device</string>
+
+
+    <!-- progress -->
+    <string name="connect_in_progress">Connection In Progress...</string>
+
+
+    <!-- General text -->
+    <string name="break_option">Break</string>
+
+
+
+
+    <!-- user warning -->
+    <string name = "user_warning">Warning!</string>
+
+
+    <!-- user confirm -->
+    <string name="user_confirm_dis_connect_printer">Are you sure want to Disconnect Printer?</string>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/id_menu_connect"
+        android:title="Connect"
+        android:icon="@drawable/ic_baseline_electricity_connect"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/id_menu_print"
+        android:title="Print"
+        android:icon="@drawable/ic_baseline_local_printshop_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/id_menu_setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_baseline_menu_setting"
+        app:showAsAction="always"/>
+
+</menu>
